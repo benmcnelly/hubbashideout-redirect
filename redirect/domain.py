@@ -1,1 +1,1 @@
-redirect_domain = 'https://squareup.com/store/hubbashideout/'
+redirect_domain = 'squareup.com/store/hubbashideout'
